@@ -1,0 +1,11 @@
+Cep: 50760-440
+Logradouro: Rua Venâncio Leonardo Evangelista
+Complemento: 
+Unidade: 
+Bairro: Mustardinha
+Localidade: Recife
+Uf: PE
+Ibge: 2611606
+Gia: 
+Ddd: 81
+Siafi: 2531
